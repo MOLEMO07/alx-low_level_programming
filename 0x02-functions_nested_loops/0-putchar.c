@@ -1,14 +1,20 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main.h - prints _putchar in functions
- *
+ * main - print _putchar
+ * is written by Molemo07
  * Return : 0
 */
+
 void int main(void)
 {
-	int i;
-
-	_putchar(i);
-	return (0);
-
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
 }
