@@ -1,11 +1,11 @@
 #include "main.h"
-/**
- * main - print _putchar
- * is written by Molemo07
- * Return : 0
-*/
 
-void int main(void)
+/**
+ * main - print script using putchar
+ *
+ * Return:0
+ */
+int main(void);
 {
 _putchar('_');
 _putchar('p');
