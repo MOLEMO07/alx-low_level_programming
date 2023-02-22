@@ -1,11 +1,9 @@
 #include "main.h"
-
 /**
  * jack_bauer - prints 24 hours
  *
  * Return: Always 0
  */
-
 void jack_bauer(void)
 {
 	int i, j;
